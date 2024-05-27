@@ -1,3 +1,4 @@
+# 🚧 This repo has been moved to [prescientmoon/erratic-gate](https://github.com/prescientmoon/erratic-gate) 🚧
 # Logic gate simulator
 
 This is a logic gate simulator made for infoeducatie 2019.
